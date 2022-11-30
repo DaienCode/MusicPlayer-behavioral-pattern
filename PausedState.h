@@ -1,9 +1,3 @@
-/*
- * PausedState.h
- *
- *  Created on: May 7, 2017
- *      Author: rlarson
- */
 
 #ifndef PAUSEDSTATE_H_
 #define PAUSEDSTATE_H_

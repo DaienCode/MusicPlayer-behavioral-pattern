@@ -1,9 +1,4 @@
-/*
- * MusicPlayer.h
- *
- *  Created on: May 7, 2017
- *      Author: rlarson
- */
+
 
 #ifndef MUSICPLAYER_H_
 #define MUSICPLAYER_H_

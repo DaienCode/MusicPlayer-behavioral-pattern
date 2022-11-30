@@ -1,9 +1,4 @@
-/*
- * PausedState.cpp
- *
- *  Created on: May 7, 2017
- *      Author: rlarson
- */
+
 
 #include "PausedState.h"
 #include "MusicPlayer.h"

@@ -1,9 +1,4 @@
-/*
- * PlayingState.cpp
- *
- *  Created on: May 7, 2017
- *      Author: rlarson
- */
+
 
 #include "PlayingState.h"
 #include "MusicPlayer.h"

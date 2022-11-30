@@ -1,9 +1,4 @@
-/*
- * MusicPlayerState.h
- *
- *  Created on: May 7, 2017
- *      Author: rlarson
- */
+
 
 #ifndef MUSICPLAYERSTATE_H_
 #define MUSICPLAYERSTATE_H_
